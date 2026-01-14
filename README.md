@@ -1,4 +1,4 @@
-# Setu BillPay on WhatsApp — README
+# BillPay on WhatsApp — README
 
 A production-ready blueprint for delivering BBPS bill payments on WhatsApp using Meta **WhatsApp Cloud API** primitives:
 - **Interactive List / Reply Buttons** for navigation
